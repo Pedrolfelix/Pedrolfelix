@@ -54,7 +54,7 @@ A fully hand-coded travel guide for Istanbul — curated itineraries, embedded m
 
 ## 📡 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Felix-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pedrolfelix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Felix-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/pedrolfelix](https://www.linkedin.com/in/pedroffernandes/?locale=pt_BR))
 [![GitHub](https://img.shields.io/badge/GitHub-Pedrolfelix-181717?style=flat&logo=github)](https://github.com/Pedrolfelix)
 
 ---
