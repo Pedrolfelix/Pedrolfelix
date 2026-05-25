@@ -35,13 +35,6 @@ Built a vision-only navigation system that maps, localizes, and navigates a robo
 
 ---
 
-### 🌍 [Runto-Travel-Guide-Project](https://pedrolfelix.github.io/Runto-Travel-Guide-Project/) — Istanbul Travel Guide
-A fully hand-coded travel guide for Istanbul — curated itineraries, embedded maps, bargaining phrases in Turkish, and a hidden nightlife section. Built with pure HTML, CSS, and JavaScript. Deployed on GitHub Pages.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
----
-
 ## 🧰 Skills
 
 **Hardware:** PCB Design · Altium Designer · Cadence Virtuoso · SMD Soldering · Analog Circuit Design · VHDL · FPGA
